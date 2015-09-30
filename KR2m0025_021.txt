@@ -1,0 +1,28 @@
+# -*- mode: mandoku-view; -*-
+#+TITLE: 大金集禮
+#+DATE: 2015-08-24 22:51:28.409807
+#+PROPERTY: ID KR2m0025
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷二十六
+<pb:KR2m0025_WYG_021-1a>¶
+欽定四庫全書¶
+　大金集禮卷二十六¶
+　　(原闕/)¶
+<pb:KR2m0025_WYG_021-2a>¶
+　¶
+　¶
+　¶
+　¶
+　¶
+　¶
+　¶
+　¶
+<pb:KR2m0025_WYG_021-2b>¶
+　¶
+　¶
+　¶
+　¶
+　¶
+　¶
+　¶
+　大金集禮卷二十六¶
